@@ -1,1 +1,1 @@
-hi team,the app is not ready
+hi team,the app is ready to deploy
